@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursos\\Curso-C#\\Projetos\\PrimeiraEntrada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F27035E0-75FE-436C-B84B-8D98FA396E68}|PrimeiraEntrada\\PrimeiraEntrada.csproj|d:\\cursos\\curso-c#\\projetos\\primeiraentrada\\primeiraentrada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27035E0-75FE-436C-B84B-8D98FA396E68}|PrimeiraEntrada\\PrimeiraEntrada.csproj|solutionrelative:primeiraentrada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursos\\Curso-C#\\Projetos\\PrimeiraEntrada\\PrimeiraEntrada\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeiraEntrada\\Program.cs",
+              "ToolTip": "D:\\Cursos\\Curso-C#\\Projetos\\PrimeiraEntrada\\PrimeiraEntrada\\Program.cs",
+              "RelativeToolTip": "PrimeiraEntrada\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:08:04.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

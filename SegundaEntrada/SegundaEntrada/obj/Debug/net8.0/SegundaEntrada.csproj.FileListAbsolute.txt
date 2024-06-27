@@ -1,0 +1,14 @@
+D:\Cursos\Curso-C#\Projetos\SegundaEntrada\SegundaEntrada\bin\Debug\net8.0\SegundaEntrada.exe
+D:\Cursos\Curso-C#\Projetos\SegundaEntrada\SegundaEntrada\bin\Debug\net8.0\SegundaEntrada.deps.json
+D:\Cursos\Curso-C#\Projetos\SegundaEntrada\SegundaEntrada\bin\Debug\net8.0\SegundaEntrada.runtimeconfig.json
+D:\Cursos\Curso-C#\Projetos\SegundaEntrada\SegundaEntrada\bin\Debug\net8.0\SegundaEntrada.dll
+D:\Cursos\Curso-C#\Projetos\SegundaEntrada\SegundaEntrada\bin\Debug\net8.0\SegundaEntrada.pdb
+D:\Cursos\Curso-C#\Projetos\SegundaEntrada\SegundaEntrada\obj\Debug\net8.0\SegundaEntrada.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso-C#\Projetos\SegundaEntrada\SegundaEntrada\obj\Debug\net8.0\SegundaEntrada.AssemblyInfoInputs.cache
+D:\Cursos\Curso-C#\Projetos\SegundaEntrada\SegundaEntrada\obj\Debug\net8.0\SegundaEntrada.AssemblyInfo.cs
+D:\Cursos\Curso-C#\Projetos\SegundaEntrada\SegundaEntrada\obj\Debug\net8.0\SegundaEntrada.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso-C#\Projetos\SegundaEntrada\SegundaEntrada\obj\Debug\net8.0\SegundaEntrada.dll
+D:\Cursos\Curso-C#\Projetos\SegundaEntrada\SegundaEntrada\obj\Debug\net8.0\refint\SegundaEntrada.dll
+D:\Cursos\Curso-C#\Projetos\SegundaEntrada\SegundaEntrada\obj\Debug\net8.0\SegundaEntrada.pdb
+D:\Cursos\Curso-C#\Projetos\SegundaEntrada\SegundaEntrada\obj\Debug\net8.0\SegundaEntrada.genruntimeconfig.cache
+D:\Cursos\Curso-C#\Projetos\SegundaEntrada\SegundaEntrada\obj\Debug\net8.0\ref\SegundaEntrada.dll

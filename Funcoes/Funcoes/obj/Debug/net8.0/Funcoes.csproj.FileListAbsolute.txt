@@ -1,0 +1,14 @@
+D:\Cursos\Curso-C#\Projetos\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso-C#\Projetos\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.AssemblyInfoInputs.cache
+D:\Cursos\Curso-C#\Projetos\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.AssemblyInfo.cs
+D:\Cursos\Curso-C#\Projetos\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso-C#\Projetos\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.exe
+D:\Cursos\Curso-C#\Projetos\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.deps.json
+D:\Cursos\Curso-C#\Projetos\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.runtimeconfig.json
+D:\Cursos\Curso-C#\Projetos\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.dll
+D:\Cursos\Curso-C#\Projetos\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.pdb
+D:\Cursos\Curso-C#\Projetos\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.dll
+D:\Cursos\Curso-C#\Projetos\Funcoes\Funcoes\obj\Debug\net8.0\refint\Funcoes.dll
+D:\Cursos\Curso-C#\Projetos\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.pdb
+D:\Cursos\Curso-C#\Projetos\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.genruntimeconfig.cache
+D:\Cursos\Curso-C#\Projetos\Funcoes\Funcoes\obj\Debug\net8.0\ref\Funcoes.dll

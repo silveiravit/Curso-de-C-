@@ -1,0 +1,14 @@
+D:\Cursos\Curso-C#\Projetos\PrimeiraEntrada\PrimeiraEntrada\bin\Debug\net8.0\PrimeiraEntrada.exe
+D:\Cursos\Curso-C#\Projetos\PrimeiraEntrada\PrimeiraEntrada\bin\Debug\net8.0\PrimeiraEntrada.deps.json
+D:\Cursos\Curso-C#\Projetos\PrimeiraEntrada\PrimeiraEntrada\bin\Debug\net8.0\PrimeiraEntrada.runtimeconfig.json
+D:\Cursos\Curso-C#\Projetos\PrimeiraEntrada\PrimeiraEntrada\bin\Debug\net8.0\PrimeiraEntrada.dll
+D:\Cursos\Curso-C#\Projetos\PrimeiraEntrada\PrimeiraEntrada\bin\Debug\net8.0\PrimeiraEntrada.pdb
+D:\Cursos\Curso-C#\Projetos\PrimeiraEntrada\PrimeiraEntrada\obj\Debug\net8.0\PrimeiraEntrada.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso-C#\Projetos\PrimeiraEntrada\PrimeiraEntrada\obj\Debug\net8.0\PrimeiraEntrada.AssemblyInfoInputs.cache
+D:\Cursos\Curso-C#\Projetos\PrimeiraEntrada\PrimeiraEntrada\obj\Debug\net8.0\PrimeiraEntrada.AssemblyInfo.cs
+D:\Cursos\Curso-C#\Projetos\PrimeiraEntrada\PrimeiraEntrada\obj\Debug\net8.0\PrimeiraEntrada.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso-C#\Projetos\PrimeiraEntrada\PrimeiraEntrada\obj\Debug\net8.0\PrimeiraEntrada.dll
+D:\Cursos\Curso-C#\Projetos\PrimeiraEntrada\PrimeiraEntrada\obj\Debug\net8.0\refint\PrimeiraEntrada.dll
+D:\Cursos\Curso-C#\Projetos\PrimeiraEntrada\PrimeiraEntrada\obj\Debug\net8.0\PrimeiraEntrada.pdb
+D:\Cursos\Curso-C#\Projetos\PrimeiraEntrada\PrimeiraEntrada\obj\Debug\net8.0\PrimeiraEntrada.genruntimeconfig.cache
+D:\Cursos\Curso-C#\Projetos\PrimeiraEntrada\PrimeiraEntrada\obj\Debug\net8.0\ref\PrimeiraEntrada.dll
