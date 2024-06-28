@@ -1,0 +1,14 @@
+D:\Cursos\Curso-C#\Projetos\POO\Triangulo\Triangulo\bin\Debug\net8.0\Triangulo.exe
+D:\Cursos\Curso-C#\Projetos\POO\Triangulo\Triangulo\bin\Debug\net8.0\Triangulo.deps.json
+D:\Cursos\Curso-C#\Projetos\POO\Triangulo\Triangulo\bin\Debug\net8.0\Triangulo.runtimeconfig.json
+D:\Cursos\Curso-C#\Projetos\POO\Triangulo\Triangulo\bin\Debug\net8.0\Triangulo.dll
+D:\Cursos\Curso-C#\Projetos\POO\Triangulo\Triangulo\bin\Debug\net8.0\Triangulo.pdb
+D:\Cursos\Curso-C#\Projetos\POO\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso-C#\Projetos\POO\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.AssemblyInfoInputs.cache
+D:\Cursos\Curso-C#\Projetos\POO\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.AssemblyInfo.cs
+D:\Cursos\Curso-C#\Projetos\POO\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso-C#\Projetos\POO\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.dll
+D:\Cursos\Curso-C#\Projetos\POO\Triangulo\Triangulo\obj\Debug\net8.0\refint\Triangulo.dll
+D:\Cursos\Curso-C#\Projetos\POO\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.pdb
+D:\Cursos\Curso-C#\Projetos\POO\Triangulo\Triangulo\obj\Debug\net8.0\Triangulo.genruntimeconfig.cache
+D:\Cursos\Curso-C#\Projetos\POO\Triangulo\Triangulo\obj\Debug\net8.0\ref\Triangulo.dll

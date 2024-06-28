@@ -1,0 +1,14 @@
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioCondicional4\ExercicioCondicional4\bin\Debug\net8.0\ExercicioCondicional4.exe
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioCondicional4\ExercicioCondicional4\bin\Debug\net8.0\ExercicioCondicional4.deps.json
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioCondicional4\ExercicioCondicional4\bin\Debug\net8.0\ExercicioCondicional4.runtimeconfig.json
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioCondicional4\ExercicioCondicional4\bin\Debug\net8.0\ExercicioCondicional4.dll
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioCondicional4\ExercicioCondicional4\bin\Debug\net8.0\ExercicioCondicional4.pdb
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioCondicional4\ExercicioCondicional4\obj\Debug\net8.0\ExercicioCondicional4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioCondicional4\ExercicioCondicional4\obj\Debug\net8.0\ExercicioCondicional4.AssemblyInfoInputs.cache
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioCondicional4\ExercicioCondicional4\obj\Debug\net8.0\ExercicioCondicional4.AssemblyInfo.cs
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioCondicional4\ExercicioCondicional4\obj\Debug\net8.0\ExercicioCondicional4.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioCondicional4\ExercicioCondicional4\obj\Debug\net8.0\ExercicioCondicional4.dll
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioCondicional4\ExercicioCondicional4\obj\Debug\net8.0\refint\ExercicioCondicional4.dll
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioCondicional4\ExercicioCondicional4\obj\Debug\net8.0\ExercicioCondicional4.pdb
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioCondicional4\ExercicioCondicional4\obj\Debug\net8.0\ExercicioCondicional4.genruntimeconfig.cache
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioCondicional4\ExercicioCondicional4\obj\Debug\net8.0\ref\ExercicioCondicional4.dll

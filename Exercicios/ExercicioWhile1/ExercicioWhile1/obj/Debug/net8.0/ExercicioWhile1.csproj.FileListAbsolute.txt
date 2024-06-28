@@ -1,0 +1,14 @@
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioWhile1\ExercicioWhile1\bin\Debug\net8.0\ExercicioWhile1.exe
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioWhile1\ExercicioWhile1\bin\Debug\net8.0\ExercicioWhile1.deps.json
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioWhile1\ExercicioWhile1\bin\Debug\net8.0\ExercicioWhile1.runtimeconfig.json
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioWhile1\ExercicioWhile1\bin\Debug\net8.0\ExercicioWhile1.dll
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioWhile1\ExercicioWhile1\bin\Debug\net8.0\ExercicioWhile1.pdb
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioWhile1\ExercicioWhile1\obj\Debug\net8.0\ExercicioWhile1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioWhile1\ExercicioWhile1\obj\Debug\net8.0\ExercicioWhile1.AssemblyInfoInputs.cache
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioWhile1\ExercicioWhile1\obj\Debug\net8.0\ExercicioWhile1.AssemblyInfo.cs
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioWhile1\ExercicioWhile1\obj\Debug\net8.0\ExercicioWhile1.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioWhile1\ExercicioWhile1\obj\Debug\net8.0\ExercicioWhile1.dll
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioWhile1\ExercicioWhile1\obj\Debug\net8.0\refint\ExercicioWhile1.dll
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioWhile1\ExercicioWhile1\obj\Debug\net8.0\ExercicioWhile1.pdb
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioWhile1\ExercicioWhile1\obj\Debug\net8.0\ExercicioWhile1.genruntimeconfig.cache
+D:\Cursos\Curso-C#\Projetos\Exercicios\ExercicioWhile1\ExercicioWhile1\obj\Debug\net8.0\ref\ExercicioWhile1.dll

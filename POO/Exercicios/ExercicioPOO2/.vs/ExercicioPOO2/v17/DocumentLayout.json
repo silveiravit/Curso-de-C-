@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursos\\Curso-C#\\Projetos\\POO\\Exercicios\\ExercicioPOO2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92007E7D-A4AB-4190-877F-2E8F9461D019}|ExercicioPOO2\\ExercicioPOO2.csproj|d:\\cursos\\curso-c#\\projetos\\poo\\exercicios\\exerciciopoo2\\exerciciopoo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92007E7D-A4AB-4190-877F-2E8F9461D019}|ExercicioPOO2\\ExercicioPOO2.csproj|solutionrelative:exerciciopoo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92007E7D-A4AB-4190-877F-2E8F9461D019}|ExercicioPOO2\\ExercicioPOO2.csproj|d:\\cursos\\curso-c#\\projetos\\poo\\exercicios\\exerciciopoo2\\exerciciopoo2\\salario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92007E7D-A4AB-4190-877F-2E8F9461D019}|ExercicioPOO2\\ExercicioPOO2.csproj|solutionrelative:exerciciopoo2\\salario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Salario.cs",
+              "DocumentMoniker": "D:\\Cursos\\Curso-C#\\Projetos\\POO\\Exercicios\\ExercicioPOO2\\ExercicioPOO2\\Salario.cs",
+              "RelativeDocumentMoniker": "ExercicioPOO2\\Salario.cs",
+              "ToolTip": "D:\\Cursos\\Curso-C#\\Projetos\\POO\\Exercicios\\ExercicioPOO2\\ExercicioPOO2\\Salario.cs",
+              "RelativeToolTip": "ExercicioPOO2\\Salario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:28:17.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursos\\Curso-C#\\Projetos\\POO\\Exercicios\\ExercicioPOO2\\ExercicioPOO2\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioPOO2\\Program.cs",
+              "ToolTip": "D:\\Cursos\\Curso-C#\\Projetos\\POO\\Exercicios\\ExercicioPOO2\\ExercicioPOO2\\Program.cs",
+              "RelativeToolTip": "ExercicioPOO2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:27:14.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
